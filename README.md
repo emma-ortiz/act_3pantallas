@@ -1,13 +1,10 @@
 
 
 ##fotos  android 
+<img width="460" height="778" alt="image" src="https://github.com/user-attachments/assets/371fd475-6e0c-4f2d-8219-18e8c90252a4" />
+<img width="463" height="780" alt="image" src="https://github.com/user-attachments/assets/a240a8fa-c3fe-4ede-bbc7-21739245967d" />
+<img width="474" height="780" alt="image" src="https://github.com/user-attachments/assets/c793280f-744f-48a1-9233-6b0f1aa91163" />
 
-<img width="273" height="480" alt="image" src="https://github.com/user-attachments/assets/bbfd7bfc-6d2c-4e52-a896-385450298356" />
-
-
-<img width="282" height="479" alt="image" src="https://github.com/user-attachments/assets/aa9c374d-fc01-4fe1-9628-439ed64f3fa2" />
-
-<img width="278" height="477" alt="image" src="https://github.com/user-attachments/assets/c51ac0d4-8603-4b77-ab9e-db844ab56804" />
 
 ## fotos web 
 <img width="834" height="862" alt="image" src="https://github.com/user-attachments/assets/fb75f47d-4bd1-4e8e-91b7-ec27e3200fc0" />
