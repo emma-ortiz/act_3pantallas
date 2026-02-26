@@ -7,7 +7,9 @@
 
 
 ## fotos web 
-<img width="834" height="862" alt="image" src="https://github.com/user-attachments/assets/fb75f47d-4bd1-4e8e-91b7-ec27e3200fc0" />
+<img width="527" height="827" alt="image" src="https://github.com/user-attachments/assets/d8a8dfa0-e67e-48eb-bf77-74cdb19af918" />
+
 <img width="557" height="815" alt="image" src="https://github.com/user-attachments/assets/dfa1a8ac-096f-4818-a5cb-76ad1bc4ffc4" />
-<img width="551" height="804" alt="image" src="https://github.com/user-attachments/assets/0877d5c3-ca04-4cda-9833-bf8fd92cbc0e" />
+<img width="532" height="828" alt="image" src="https://github.com/user-attachments/assets/785c4a66-548d-432d-a70f-6506b3a9ea73" />
+
 
